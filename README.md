@@ -1,8 +1,8 @@
-# Amazon-Echo-CapOne
+# Amazon Echo Capital One Capstone SP17
 
 
 Team Members:
-Aditya Kela, Carolyn Mulhern, Charles Penunia, Kaitlyn Heinzmann, Molly Basile, Scott Miller, Sohom Bhattacharya
+Ayrton Trujillo, Andrew Zhang, Harsh Patel, Andy Ye, Vineeth Joseph, Quinn Burke
 
 ### Description
 This project is a capstone project for CMPSC 483W that is sponsored by Capital One. The project will utilize the Amazon Echo to perform bank related actions.
